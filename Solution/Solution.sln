@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker", "Broker\Broker.csproj", "{560F0CE3-A1A5-4058-B115-38C4E3B1E735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560F0CE3-A1A5-4058-B115-38C4E3B1E735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560F0CE3-A1A5-4058-B115-38C4E3B1E735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560F0CE3-A1A5-4058-B115-38C4E3B1E735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560F0CE3-A1A5-4058-B115-38C4E3B1E735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
